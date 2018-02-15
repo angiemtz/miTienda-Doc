@@ -59234,7 +59234,11 @@
 																	"visible": false,
 																	"enabled": true,
 																	"lineColor": "#000000",
+<<<<<<< HEAD
 																	"fillColor": "#d8e5ff",
+=======
+																	"fillColor": "#ffffff",
+>>>>>>> c3fe278a35f4b03c41c313a8bf7bada7cf6aa734
 																	"fontColor": "#000000",
 																	"font": "Arial;13;0",
 																	"showShadow": true,
@@ -59259,7 +59263,11 @@
 																	"visible": true,
 																	"enabled": true,
 																	"lineColor": "#000000",
+<<<<<<< HEAD
 																	"fillColor": "#d8e5ff",
+=======
+																	"fillColor": "#ffffff",
+>>>>>>> c3fe278a35f4b03c41c313a8bf7bada7cf6aa734
 																	"fontColor": "#000000",
 																	"font": "Arial;13;1",
 																	"showShadow": true,
@@ -59285,7 +59293,11 @@
 																	"visible": false,
 																	"enabled": true,
 																	"lineColor": "#000000",
+<<<<<<< HEAD
 																	"fillColor": "#d8e5ff",
+=======
+																	"fillColor": "#ffffff",
+>>>>>>> c3fe278a35f4b03c41c313a8bf7bada7cf6aa734
 																	"fontColor": "#000000",
 																	"font": "Arial;13;0",
 																	"showShadow": true,
@@ -59311,7 +59323,11 @@
 																	"visible": false,
 																	"enabled": true,
 																	"lineColor": "#000000",
+<<<<<<< HEAD
 																	"fillColor": "#d8e5ff",
+=======
+																	"fillColor": "#ffffff",
+>>>>>>> c3fe278a35f4b03c41c313a8bf7bada7cf6aa734
 																	"fontColor": "#000000",
 																	"font": "Arial;13;0",
 																	"showShadow": true,
@@ -59331,7 +59347,11 @@
 															"visible": true,
 															"enabled": true,
 															"lineColor": "#000000",
+<<<<<<< HEAD
 															"fillColor": "#d8e5ff",
+=======
+															"fillColor": "#ffffff",
+>>>>>>> c3fe278a35f4b03c41c313a8bf7bada7cf6aa734
 															"fontColor": "#000000",
 															"font": "Arial;13;0",
 															"showShadow": true,
@@ -59362,7 +59382,11 @@
 													"visible": true,
 													"enabled": true,
 													"lineColor": "#000000",
+<<<<<<< HEAD
 													"fillColor": "#d8e5ff",
+=======
+													"fillColor": "#ffffff",
+>>>>>>> c3fe278a35f4b03c41c313a8bf7bada7cf6aa734
 													"fontColor": "#000000",
 													"font": "Arial;13;0",
 													"showShadow": true,
